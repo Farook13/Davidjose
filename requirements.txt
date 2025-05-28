@@ -1,5 +1,6 @@
 pyrogram
-TgCrypto
+tgcrypto
+Flask
 umongo
 dnspython
 heroku3
